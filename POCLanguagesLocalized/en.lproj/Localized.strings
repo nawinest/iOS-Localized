@@ -1,0 +1,10 @@
+/* 
+  Localized.strings
+  POCLanguagesLocalized
+
+  Created by Nawin Phunsawat on 2/4/2563 BE.
+  Copyright © 2563 Nawin Phunsawat. All rights reserved.
+*/
+
+"loading_data" = "Loading Data...";
+"data_loaded" = "Data Loaded!";
